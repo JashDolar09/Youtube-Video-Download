@@ -1,0 +1,13 @@
+{
+    "git.decorations.enabled": false,
+    "diffEditor.experimental.showEmptyDecorations": false,
+    "git.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.gutter.decorations.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.gutter.decorations.enabled": false,
+    "git.decorations.enabled": false
+}
